@@ -1,1 +1,0 @@
-/frontend_flutter/web/index.html
